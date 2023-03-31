@@ -27,7 +27,7 @@ To add a new recipe, add a new object to the `recipes.json` array:
     ],
     "produces": {
       "material": "<produce material>",
-      "amount": <produce amount>
+      "amount": "<produce amount>"
     },
     "instruction": ["<crafting instruction>"]
   }
