@@ -1,0 +1,54 @@
+[
+  {
+    "key": "j_name_tag",
+    "ingredients": [
+      {"material": "STRING", "association": "~"},
+      {"material": "PAPER", "association": "#"}
+    ],
+    "produces": {
+      "material": "NAME_TAG",
+      "amount": 1
+    },
+    "instruction": ["~#"]
+  },
+  {
+    "key": "j_saddle",
+    "ingredients": [
+      {"material": "LEATHER", "association": "L"},
+      {"material": "IRON_INGOT", "association": "I"}
+    ],
+    "produces": {
+      "material": "SADDLE",
+      "amount": 1
+    },
+    "instruction": ["LLL",
+                    "LIL"]
+  },
+  {
+    "key": "j_leather",
+    "ingredients": [
+      {"material": "ROTTEN_FLESH", "association": "r"}
+    ],
+    "produces": {
+      "material": "LEATHER",
+      "amount": 1
+    },
+    "instruction": ["rrr",
+                    "rrr",
+                    "rrr"]
+  },
+  {
+    "key": "j_cobweb",
+    "ingredients": [
+      {"material": "STRING", "association": "~"},
+      {"material": "HONEY_BOTTLE", "association": "o"}
+    ],
+    "produces": {
+      "material": "COBWEB",
+      "amount": 4
+    },
+    "instruction": ["~~~",
+                    "~o~",
+                    "~~~"]
+  }
+]

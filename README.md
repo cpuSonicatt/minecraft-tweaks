@@ -22,8 +22,3 @@ For people who don't want to adventure down into dungeons, cobwebs are very hard
 
 ![leather recipe](./resources/leather.png)  
 Having a world late-game means you probably have a mob-spawner, or at least have a fair amount of mob junk. The most useless one, rotten flesh, was also the most abundant, so I felt like giving it another use. Leather made sense in this case (if you don't think about it for too long). 
-
-
-### Issues or suggestions
-
-If you have any issues or suggestions, feel free to [create an issue](https://github.com/cpuSonicatt/minecraft-tweaks/issues) and I'll be on it as soon as I can! 
